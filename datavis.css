@@ -1,0 +1,40 @@
+body, html {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+     height: 100%;
+    }
+    .leaflet-container {
+        background-color:rgba(255, 0, 0, 0.0);
+    }
+        / *make vertical objects visible */
+    #map {
+      overflow:visible;
+    }
+
+    /* removes a flickering background color */
+    .leaflet-container {
+      background:none;
+    }
+
+    /* set up our 3D space */
+    #map,
+    #map * {
+      -webkit-transform-style:preserve-3d;
+      transform-style:preserve-3d;
+    }
+
+    /* Optional: this will help you see what's going on as we build the tilted view, but can be removed */
+    /*.marker {
+      -webkit-transform:translateZ(1px);
+      transform:translateZ(1px);
+    }*/
+    #map {
+      transform:rotateX(-40deg);
+    }
+    body{
+      perspective:1200;
+    }
