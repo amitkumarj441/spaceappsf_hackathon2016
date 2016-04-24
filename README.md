@@ -1,5 +1,5 @@
-![SpaceApps Logo](desktop/data_viz/SF-SpaceApps-2016-logo.png)
-
+![SpaceApps Logo](https://github.com/colleenboodleman/spaceappsf_hackathon2016/blob/master/SF-SpaceApps-2016-logo.png)
+![SpaceApps Logo](https://github.com/colleenboodleman/spaceappsf_hackathon2016/blob/master/SF-SpaceApps-2016-logo.png)
 # SPACE APPS CHALLENGE - San Francisco HACKATHON 2016
 
 ##Motivation/Challenge 
