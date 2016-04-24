@@ -14,7 +14,7 @@ We are addressing radical transformations in data exploration and the impact of 
 
 ### Design Vision
 
-Create a responsive web application that provides 3-D displays of real-time weather data at the city level for California, users can receive up-to-date weather information, data is projected from base maps and satellite imagery to provide an interactive experience.
+Create a responsive web application that provides 3D displays of real-time spatial information at multiple scales where users can customize visualizations via multiple device types, data is projected from base maps and satellite imagery to connect data from a variety of api's and data sources.
 
 ### Methodology
 1. Brainstormed reliable data sources
