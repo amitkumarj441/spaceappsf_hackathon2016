@@ -4,5 +4,4 @@ $.ajax({
   success: function(weather_data){
     console.log(weather_data);
   }
-
 });
